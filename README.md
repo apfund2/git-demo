@@ -2,8 +2,6 @@
 
 This the fist file in this repository.
 
-##Ipsum Below
+##Website Contents
 
-This is bogus.
-
-This the third edit.
+index.html
